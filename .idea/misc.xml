@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/CountryPicker/MukeshCountryPicker/src/main/res/drawable/bg_search.xml" value="0.26615384615384613" />
+        <entry key="..\:/android projects/CountryPicker/MukeshCountryPicker/src/main/res/layout/country_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/android projects/CountryPicker/MukeshCountryPicker/src/main/res/layout/mukesh_country_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/android projects/CountryPicker/app/src/main/res/layout/activity_main.xml" value="0.23981481481481481" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
