@@ -20,7 +20,7 @@ import com.mukesh.countrypicker.mukeshcountryclasses.MukeshCountryBottom
  * @backGroundColor is used for change a background color according to over requirements.
  * @selectedResult is used for get selected result.
  * */
-class MukeshCountryPicker(
+open class MukeshCountryPicker(
     private var context: () -> FragmentActivity,
     private var isFlagEnable: () -> Boolean = { true },
     private var isCountryName: () -> Boolean = { true },
